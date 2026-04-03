@@ -1,2 +1,2 @@
-# ykuruhalil.github.io
-ykuruhalil homegape
+# yusuf kuruhalil
+örnek site deposu
